@@ -1,0 +1,85 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  p{
+    text-align: center;
+    font-weight: 200;
+  }
+  
+
+  h1 {
+    position: center;
+    color: rgb(32, 13, 99);
+  }
+  
+  h2 {
+  position:relative;
+  }
+  h3{
+    text-align:center;
+  }
+  
+  p, 
+  li {
+    text-align:center;
+    position:static;
+
+
+  }
+  
+  
+  a {
+    text-align:center;
+    text-decoration: helvetica;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+  }
+
+  ul{
+    color: rgb(82, 4, 82);
+    font:Arial;
+    text-align: center;
+  }
+
+title {
+  position: relative;
+}
+#reasons{
+  font-size: 40px;
+  list-style-position:inherit; 
+}
+#Beautiful{
+ text-align: center;
+
+}
+#Wife{
+text-align: center;
+}
+
+#link {
+  font-size: 18px;
+
+}
+
+#KScool{
+text-align: center;
+
+}
+
+  
+
+
+
+
+
+
+
+
+
+
