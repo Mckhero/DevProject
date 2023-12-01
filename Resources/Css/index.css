@@ -23,7 +23,8 @@
   li {
     text-align:center;
     position:static;
-
+    margin: 12px;
+    padding:12px;
 
   }
   
@@ -52,7 +53,9 @@ title {
 }
 #reasons{
   font-size: 40px;
-  list-style-position:inherit; 
+  list-style-position:inherit;
+  font-weight: 10px;
+
 }
 #Beautiful{
  text-align: center;
@@ -70,7 +73,34 @@ text-align: center;
 #KScool{
 text-align: center;
 
+}.column {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+  margin: 10px;
 }
+#Sleeping {
+  width:280px;
+  height:auto;
+
+}
+#Floyd{
+  float: none;
+  height: auto;
+  width: 200px;
+  margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
   
 
